@@ -1,0 +1,24 @@
+{
+  "songs": [
+    {
+      "title": "Let it Go",
+      "artist": "Idina Menzel",
+      "album": "Frozen"
+    },
+    {
+      "title": "Dancing in the Dark",
+      "artist": "Rihanna",
+      "album": "Home"
+    },
+    {
+      "title": "Say Something",
+      "artist": "Justin Timberlake and Chris Stapleton",
+      "album": "Man of the Woods"
+    },
+    {
+      "title": "Ko Ko Pop",
+      "artist": "EXO",
+      "album": "The War"
+    }
+  ]
+}
